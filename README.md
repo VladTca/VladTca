@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VladTca
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning JavaScript and Pyton
+- 🌱 I’m currently learning JavaScript and Pyton and maybe little React too)
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!---
